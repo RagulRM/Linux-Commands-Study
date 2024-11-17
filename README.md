@@ -48,8 +48,7 @@ mkdir <directory_name>
 
 **Output:**
 
-![image](https://github.com/user-attachments/assets/b778c84e-3e67-410e-a00d-2ad7f4f69fff)
-
+![image](https://github.com/user-attachments/assets/39882395-20b1-46e3-a060-c67b6b1e1716)
 
 ### 4. `rmdir` Command
 
