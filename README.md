@@ -48,6 +48,9 @@ mkdir <directory_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/b778c84e-3e67-410e-a00d-2ad7f4f69fff)
+
+
 ### 4. `rmdir` Command
 
 The `rmdir` command is used to delete a directory.
