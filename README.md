@@ -61,6 +61,9 @@ rmdir <directory_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/1d5aa3c7-98f2-4148-a432-fb49d4183ccb)
+
+
 ### 5. `cd` Command
 
 The `cd` command is used to change the current directory.
