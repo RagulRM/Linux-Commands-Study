@@ -75,6 +75,9 @@ cd <directory_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/d8a17fb1-d119-4d61-a5c4-f38ee1510e47)
+
+
 ### 6. `cat` Command
 
 The `cat` command is used to create, display, and concatenate files.
