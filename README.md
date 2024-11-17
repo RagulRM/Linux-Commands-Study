@@ -89,6 +89,9 @@ cat [OPTION]... [FILE]...
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/35c70e83-c0cb-49b2-ad0f-012fd09a7c9a)
+
+
 ### 7. `cp` Command
 
 The `cp` command is used to copy files or directories.
