@@ -146,6 +146,9 @@ mv <file_name> <directory_path>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/6dd5bf26-ccdd-4717-b378-0c8f14fee6b3)
+
+
 ### 11. `rename` Command
 
 The `rename` command is used to rename files.
