@@ -19,6 +19,7 @@ ls
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/004b8b05-2c90-407c-b837-5b459324f376)
 
 ### 2. `pwd` Command
 
