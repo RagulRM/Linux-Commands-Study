@@ -103,6 +103,9 @@ cp <source_file> <destination_file>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/f11f3dd6-3dd6-4232-b57c-056fef47b009)
+
+
 ### 8. `gedit` Command
 
 `gedit` is a general-purpose text editor used to create and edit text files.
