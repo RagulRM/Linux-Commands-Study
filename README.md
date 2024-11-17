@@ -34,6 +34,9 @@ pwd
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/3554ed4f-4b51-469a-a935-b8274b196387)
+
+
 ### 3. `mkdir` Command
 
 The `mkdir` command is used to create a new directory.
