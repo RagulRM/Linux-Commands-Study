@@ -132,6 +132,9 @@ su <username>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/d21a5016-724c-48ac-8890-30e934abb0ea)
+
+
 ### 10. `mv` Command
 
 The `mv` command is used to move a file or directory from one location to another.
