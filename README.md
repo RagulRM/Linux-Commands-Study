@@ -117,6 +117,10 @@ gedit <file_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/a436c517-43e1-4f1d-9308-04c7880d4fad)
+![image](https://github.com/user-attachments/assets/e29212e6-ebb5-499c-add3-41a29ea27fec)
+
+
 ### 9. `su` Command
 
 The `su` command provides administrative access to another user.
